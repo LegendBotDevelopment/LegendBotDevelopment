@@ -29,18 +29,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 
-### 📺 Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [#80 Member Count Channel (MULTI-GUILD SUPPORT) | discord.js tutorials](https://www.youtube.com/watch?v=hCXqGpck1Uo)
-- [#79 AFK Command With TimeAgo feature (NO DATABASE) | discord.js tutorials](https://www.youtube.com/watch?v=3UsGXmAf8jg)
-- [#78 Advanced Server Information Command | discord.js tutorials](https://www.youtube.com/watch?v=Pi8Vefrzfmo)
-- [#7 Donate Coins (Command) | discord.js tutorials](https://www.youtube.com/watch?v=fXRSydK3wug)
-- [#77 Customising the Dynamic Help Command | discord.js tutorials](https://www.youtube.com/watch?v=-6GDefVQNgY)
-<!-- YOUTUBE:END -->
-
----
-
 <!-- <details>
 <summary><a align ="right">🔎 Statistics </a></summary>
 
@@ -60,6 +48,3 @@ Currently coding discord bots for payments. Send me a message on discord to disc
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
-
-
-**© [reconlx](https://github.com/reconlx)**
