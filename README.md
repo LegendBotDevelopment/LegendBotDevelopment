@@ -1,13 +1,17 @@
 ![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/tutfCPJ8Rh"> <img src="https://cdn.discordapp.com/attachments/820723085459456030/822940015112749056/350kb.gif" align="right"/>
 
 ```js
-<Quick Introduction>
-Eyyoo! Code addict, with life lessons :).
+const bestDiscordBot = require("legendbot")
+bestDiscordBot.once("ready" => {
+await life.start({timeout: -0})
+// ;)
+})
 ```
 
 - I'm currently developing the best discord bot - Legend Bot!
-- My NPM package: [xyae](https://www.npmjs.com/package/xyae), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
-- <br />
+- My NPM package: [xyae](https://www.npmjs.com/package/xyae)
+
+<br />
 
 ### Languages and Tools:
 
