@@ -1,4 +1,4 @@
-![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/tutfCPJ8Rh"> <img src="https://cdn.discordapp.com/attachments/820723085459456030/822940015112749056/350kb.gif" align="right"/>
+![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/tutfCPJ8Rh"> <img src="https://cdn.discordapp.com/attachments/820723085459456030/822940015112749056/350kb.gif" align="right"/></a>
 
 ```js
 const bestDiscordBot = require("legendbot")
@@ -43,5 +43,4 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   </a>
 <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
 </p>
