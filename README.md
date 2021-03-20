@@ -7,7 +7,7 @@ Eyyoo! Code addict, with life lessons :).
 
 - I'm currently developing the best discord bot - Legend Bot!
 - 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
-- ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
+- <br />
 
 ### Languages and Tools:
 
