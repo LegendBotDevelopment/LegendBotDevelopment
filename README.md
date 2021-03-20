@@ -11,7 +11,7 @@ await life.start({timeout: -0})
 - I'm currently developing the best discord bot - Legend Bot!
 - My NPM package: [xyae](https://www.npmjs.com/package/xyae)
 
-- <br />
+ <br/>
 
 ### Languages and Tools:
 
