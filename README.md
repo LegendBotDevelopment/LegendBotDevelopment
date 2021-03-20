@@ -22,12 +22,6 @@ await life.start({timeout: -0})
 
 ---
 
-<a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
-</a>
 </details> -->
 
 <p align="center">
